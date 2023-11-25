@@ -1,0 +1,4 @@
+2023-11-25T04:52:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\webtao33\wp-content\plugins\simply-static\vendor\voku\portable-utf8\src\voku\helper\UTF8.php on line 12851
+
+2023-11-25T05:06:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\webtao33\wp-includes\Requests\src\Transport\Curl.php on line 534
+
